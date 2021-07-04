@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecflowMars", "Specflow\SpecflowMars.csproj", "{73815F46-1CC9-4EE3-A946-58F1FC80484C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73815F46-1CC9-4EE3-A946-58F1FC80484C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73815F46-1CC9-4EE3-A946-58F1FC80484C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73815F46-1CC9-4EE3-A946-58F1FC80484C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73815F46-1CC9-4EE3-A946-58F1FC80484C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E08F7FEB-A892-4634-A8BB-E24BC65E5E95}
+	EndGlobalSection
+EndGlobal
